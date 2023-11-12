@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.conteiner {
+    background-color: yellow;
+    width: 660px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.first {
+    background-color: #C7E3E9;
+}
+.header {
+    margin: 25px 0;
+}
+.header .conteiner {
+    text-align: center;
+}
